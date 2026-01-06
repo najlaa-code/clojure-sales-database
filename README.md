@@ -114,22 +114,10 @@ John Doe: $1,250.00
 - **Paradigm**: Functional Programming
 - **Data Structures**: Hash Maps, Vectors, Sequences
 
-## Future Enhancements
-
-- [ ] Add create/update/delete operations for records
-- [ ] Implement data persistence (save changes to files)
-- [ ] Add date tracking for sales
-- [ ] Generate sales reports by date range
-- [ ] Export data to CSV/JSON formats
-- [ ] Add input validation and error handling
-
 ## Author
 
-Naj - Computer Science Student, Concordia University
+Najlaa Achouhal - Computer Science Student, Concordia University
 
-## Course Context
-
-Developed for COMP 348 (Programming Languages) - Functional Programming Module
 
 ## License
 
