@@ -116,4 +116,4 @@ John Doe: $1,250.00
 
 ## Author
 
-Najlaa Achouhal - Computer Science Student, Concordia University
+Najlaa Achouhal
