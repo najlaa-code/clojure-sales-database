@@ -117,8 +117,3 @@ John Doe: $1,250.00
 ## Author
 
 Najlaa Achouhal - Computer Science Student, Concordia University
-
-
-## License
-
-MIT License - Feel free to use this project for educational purposes.
